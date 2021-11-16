@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=radical)](https://github.com/ndrep/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrep&theme=radical&layout=compact)](https://github.com/ndrep/ndrep)
+<img src="https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=radical"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrep&theme=radical&layout=compact"/>
+
 
 
 <!--
