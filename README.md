@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrep)](https://github.com/ndrep/github-readme-stats)
+
+
 <!--
 **ndrep/ndrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
