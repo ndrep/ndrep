@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrep)](https://github.com/ndrep/github-readme-stats)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=gotham)](https://github.com/ndrep/github-readme-stats)
 
 
 <!--
