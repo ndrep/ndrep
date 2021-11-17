@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=radical" width="500"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrep&theme=radical&layout=compact" width="418"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=radical" width="500"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrep&theme=radical&layout=compact" width="400"/>
 
 
 
