@@ -3,8 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ndrep&show_icons=true&theme=radical"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrep&theme=radical&layout=compact"/>|
 |---|---|
 
-🎓 Bachelor degree in Computer Science at University of Study of Milan <br>
-🎓🎓 I'm currently a Master degree student in Computer Science at University of Study of Milan <br>
+🎓 Bachelor's degree in Computer Science at University of Study of Milan <br>
+🎓🎓 I'm currently a Master's degree student in Computer Science at University of Study of Milan <br>
 📫 You can contact me by **and.pennati@gmail.com** <br>
 
 
