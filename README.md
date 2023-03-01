@@ -4,7 +4,7 @@
 |---|---|
 
 🎓 Bachelor's degree in Computer Science at University of Study of Milan <br>
-🎓🎓 I'm currently a Master's degree student in Computer Science at University of Study of Milan <br>
+🎓🎓 Master's degree in Computer Science at University of Study of Milan <br>
 📫 You can contact me by **and.pennati@gmail.com** <br>
 
 
